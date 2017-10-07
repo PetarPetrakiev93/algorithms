@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class EightQueens {
+public class  EightQueens {
     static int solutionsFound = 0;
     static final int size = 8;
     static boolean[][] chessboard = new boolean[size][size];
