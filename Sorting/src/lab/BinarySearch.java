@@ -1,3 +1,5 @@
+package lab;
+
 public class BinarySearch<T extends Comparable> {
 
     public int binarySearchRecursive(T[] arr, T key, int start, int end){

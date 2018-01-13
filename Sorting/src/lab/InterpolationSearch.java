@@ -1,6 +1,8 @@
-public class InterpolationSearch<T extends Comparable> {
+package lab;
 
-    public int interpolationSearch(T[] arr, T key){
+public class InterpolationSearch {
+
+    public static <T extends Comparable> int interpolationSearch(T[] arr, T key){
         int low = 0;
         int high = arr.length - 1;
         while (arr[low].compareTo(key) <= 0 && arr[high].compareTo(key) >= 0) {
@@ -21,8 +23,7 @@ public class InterpolationSearch<T extends Comparable> {
         Integer[] collection = {3,2,6,9,7,3,-23,-45,65,39};
         QuickSort<Integer> mergeSort = new QuickSort<>();
         mergeSort.sort(collection);
-        InterpolationSearch<Integer> s = new InterpolationSearch<>();
-        System.out.println(s.interpolationSearch(collection, 65));
-        System.out.println(s.interpolationSearch(collection, 2));
+        System.out.println(interpolationSearch(collection, 65));
+        System.out.println(interpolationSearch(collection, 2));
     }
 }

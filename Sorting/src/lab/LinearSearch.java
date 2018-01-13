@@ -1,5 +1,4 @@
-import java.util.Arrays;
-import java.util.stream.Collectors;
+package lab;
 
 public class LinearSearch<T extends Comparable> {
 
