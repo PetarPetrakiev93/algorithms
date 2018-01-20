@@ -33,7 +33,7 @@ public class Needles {
 
     public static int binarySearchModified(List<Integer> elements, List<Integer> indexes, int key, int start, int end){
         if (end < start)
-            return end;
+            return 0;
         else {
             int mid = (start + end) / 2;
             if(mid >= elements.size()-1 && elements.get(mid) < key){
@@ -43,7 +43,10 @@ public class Needles {
                 return indexes.get(mid);
             }
             if(elements.get(mid)==key && mid != 0){
-                return indexes.get(mid-1) + 1;
+                while(elements.get(mid) == key && mid != 0){
+                    mid--;
+                }
+                return indexes.get(mid) + 1;
             }
             if(elements.get(mid)<key && elements.get(mid+1)>key){
                 return indexes.get(mid)+1;
@@ -54,6 +57,7 @@ public class Needles {
                 return binarySearchModified(elements, indexes, key, mid + 1, end);
             else
                 return indexes.get(mid);
+
         }
     }
 }
