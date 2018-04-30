@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Snakes {
+public class SnakesOptimized {
     private int n;
     private static HashSet<String> visited = new HashSet<>();
     private static HashSet<String> snakes = new HashSet<>();
@@ -9,10 +9,10 @@ public class Snakes {
     private static int count;
 
     public static void main(String[] args) {
-        Snakes snakes = new Snakes();
-        snakes.loadArguments();
+        SnakesOptimized snakesOptimized = new SnakesOptimized();
+        snakesOptimized.loadArguments();
         visited.add(0 + " " + 0);
-        snakes.gen(1, 0, 1, 'R');
+        snakesOptimized.gen(1, 0, 1, 'R');
         System.out.println("Snakes count = " + count);
     }
 
@@ -42,19 +42,16 @@ public class Snakes {
     }
 
     private void markSnake(String snake) {
-        System.out.println(snake);
-        count++;
+
         String flipped = flip(snake);
         String reversed = reverse(snake);
         String flippedReversed = reverse(flipped);
         String reversedFlip = flip(reversed);
-        for (int i = 0; i < 4; i++) {
-            snake = rotate(snake);
-            flipped = rotate(flipped);
-            reversed = rotate(reversed);
-            flippedReversed = rotate(flippedReversed);
-            reversedFlip = rotate(reversedFlip);
-            snakes.add(snake);
+
+        if (!snakes.contains(snake) && !snakes.contains(flipped)
+                && !snakes.contains(reversed) && !snakes.contains(flippedReversed) && !snakes.contains(reversedFlip)) {
+            System.out.println(snake);
+            count++;
             snakes.add(flipped);
             snakes.add(reversed);
             snakes.add(flippedReversed);
@@ -62,28 +59,26 @@ public class Snakes {
         }
     }
 
-    private String rotate(String snake) {
-        char[] rotated = new char[snake.length()];
-        for (int i = 0; i < snake.length(); i++) {
-            switch (snake.charAt(i)) {
-                case 'R':
-                    rotated[i] = 'D';
-                    break;
-                case 'L':
-                    rotated[i] = 'U';
-                    break;
-                case 'D':
-                    rotated[i] = 'L';
-                    break;
-                case 'U':
-                    rotated[i] = 'R';
-                    break;
-                default:
-                    rotated[i] = snake.charAt(i);
-                    break;
+    private char[] rotate(char[] snake) {
+        while (snake[1] != 'R') {
+            for (int i = 0; i < snake.length; i++) {
+                switch (snake[i]) {
+                    case 'R':
+                        snake[i] = 'D';
+                        break;
+                    case 'L':
+                        snake[i] = 'U';
+                        break;
+                    case 'D':
+                        snake[i] = 'L';
+                        break;
+                    case 'U':
+                        snake[i] = 'R';
+                        break;
+                }
             }
         }
-        return new String(rotated);
+        return snake;
     }
 
     private String reverse(String snake) {
@@ -92,7 +87,7 @@ public class Snakes {
         for (int i = snake.length() - 1; i >= 1; i--) {
             reversed[snake.length() - i] = snake.charAt(i);
         }
-        return new String(reversed);
+        return new String(rotate(reversed));
     }
 
     private String flip(String snake) {
@@ -106,7 +101,7 @@ public class Snakes {
                 flipped[i] = snake.charAt(i);
             }
         }
-        return new String(flipped);
+        return new String(rotate(flipped));
     }
 
     public void loadArguments() {

@@ -15,18 +15,8 @@
       <file leaf-file-name="PermutationsRecursive.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PermutationsRecursive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="51">
               <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PermutationsSwap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PermutationsSwap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -35,7 +25,7 @@
       <file leaf-file-name="PermutationWithRepetition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PermutationWithRepetition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="306">
               <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,7 +37,7 @@
       <file leaf-file-name="VariationsWithoutRepetition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VariationsWithoutRepetition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="51">
               <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
               <folding />
             </state>
@@ -57,7 +47,7 @@
       <file leaf-file-name="VariationsWithRepetitions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VariationsWithRepetitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="187">
               <caret line="11" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
@@ -67,7 +57,7 @@
       <file leaf-file-name="CombinationWithoutRepetition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CombinationWithoutRepetition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="255">
               <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
               <folding />
             </state>
@@ -77,7 +67,7 @@
       <file leaf-file-name="CombinationWithRepetition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CombinationWithRepetition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="153">
               <caret line="9" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
@@ -87,18 +77,42 @@
       <file leaf-file-name="Binomial.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Binomial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="306">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Snakes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Snakes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Snakes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="166" column="60" lean-forward="false" selection-start-line="166" selection-start-column="60" selection-end-line="166" selection-end-column="60" />
+            <state relative-caret-position="170">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SnakesOptimized.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SnakesOptimized.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cubes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Cubes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2737">
+              <caret line="161" column="1" lean-forward="false" selection-start-line="161" selection-start-column="1" selection-end-line="161" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/CombinationWithRepetition.java" />
         <option value="$PROJECT_DIR$/src/Binomial.java" />
         <option value="$PROJECT_DIR$/src/Snakes.java" />
+        <option value="$PROJECT_DIR$/src/SnakesOptimized.java" />
+        <option value="$PROJECT_DIR$/src/Cubes.java" />
       </list>
     </option>
   </component>
@@ -142,9 +158,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="405" />
-    <option name="width" value="1516" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="884" />
+    <option name="width" value="1037" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -162,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,14 +199,12 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java Web/Projects/residentevil" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Snakes">
+  <component name="RunManager" selected="Application.SnakesOptimized">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -265,9 +282,9 @@
       <module name="Combinatorial" />
       <envs />
     </configuration>
-    <configuration name="VariationsWithRepetitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SnakesOptimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="VariationsWithRepetitions" />
+      <option name="MAIN_CLASS_NAME" value="SnakesOptimized" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -354,19 +371,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.VariationsWithRepetitions" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CombinationWithoutRepetition" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CombinationWithRepetition" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Binomial" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Snakes" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CombinationWithoutRepetition" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CombinationWithRepetition" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Binomial" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Snakes" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SnakesOptimized" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Snakes" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Binomial" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CombinationWithRepetition" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CombinationWithoutRepetition" />
-        <item index="4" class="java.lang.String" itemvalue="Application.VariationsWithRepetitions" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SnakesOptimized" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Snakes" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Binomial" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CombinationWithRepetition" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CombinationWithoutRepetition" />
       </list>
     </recent_temporary>
   </component>
@@ -386,14 +403,16 @@
       <workItem from="1522613614478" duration="6124000" />
       <workItem from="1522700052341" duration="4048000" />
       <workItem from="1523810058047" duration="61000" />
+      <workItem from="1525003563932" duration="7168000" />
+      <workItem from="1525116429312" duration="72000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10233000" />
+    <option name="totallyTimeSpent" value="17473000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1162" extended-state="6" />
+    <frame x="884" y="0" width="1037" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -404,11 +423,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964823" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964823" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19583334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28011754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -445,18 +464,174 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Snakes.java</url>
-          <line>157</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PermutationsRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationsSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationWithRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariationsWithoutRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariationsWithRepetitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationWithoutRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationWithRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binomial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Snakes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnakesOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationsRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationsSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationWithRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariationsWithoutRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VariationsWithRepetitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationWithoutRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationWithRepetition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Binomial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Snakes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="60" lean-forward="false" selection-start-line="166" selection-start-column="60" selection-end-line="166" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PermutationsRecursive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -601,7 +776,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PermutationsSwap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="306">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="64" />
           <folding />
         </state>
@@ -609,7 +784,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PermutationsRecursive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="51">
           <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding />
         </state>
@@ -617,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PermutationWithRepetition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="306">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -627,7 +802,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VariationsWithRepetitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="187">
           <caret line="11" column="43" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
@@ -635,7 +810,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VariationsWithoutRepetition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="51">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
           <folding />
         </state>
@@ -643,7 +818,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CombinationWithRepetition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="153">
           <caret line="9" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
@@ -651,7 +826,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CombinationWithoutRepetition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="255">
           <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
           <folding />
         </state>
@@ -659,7 +834,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Binomial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
@@ -667,8 +842,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Snakes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="166" column="60" lean-forward="false" selection-start-line="166" selection-start-column="60" selection-end-line="166" selection-end-column="60" />
+        <state relative-caret-position="170">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SnakesOptimized.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cubes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="161" column="1" lean-forward="false" selection-start-line="161" selection-start-column="1" selection-end-line="161" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
