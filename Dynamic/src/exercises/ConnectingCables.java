@@ -1,10 +1,18 @@
-import java.util.Scanner;
+package exercises;
 
-public class LCS {
+import java.util.*;
+
+public class ConnectingCables{
     public static void main(String[] args){
         Scanner scr = new Scanner(System.in);
-        char[] firstSequence = scr.nextLine().toCharArray();
-        char[] secondSequence = scr.nextLine().toCharArray();
+        String[] firstSequenceTokens = scr.nextLine().split(" ");
+        int[] firstSequence = new int[firstSequenceTokens.length];
+        int[] secondSequence = new int[firstSequenceTokens.length];
+        for(int i = 0; i < firstSequenceTokens.length; i++){
+            secondSequence[i] = i+1;
+            firstSequence[i] = Integer.parseInt(firstSequenceTokens[i]);
+        }
+
         int[][] lcs = new int[firstSequence.length+1][secondSequence.length+1];
 
         for(int row = 1; row <= firstSequence.length; row++){
@@ -22,6 +30,6 @@ public class LCS {
             }
         }
 
-        System.out.println(lcs[firstSequence.length][secondSequence.length]);
+        System.out.println("Maximum pairs connected: " + lcs[firstSequence.length][secondSequence.length]);
     }
 }
